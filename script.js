@@ -9,48 +9,48 @@ Semester 1
 ====================== */
 
 {
-name:"Research",
-full:"Research Databases",
+name:"أوعية المعلومات",
+full:"البحث في أوعية المعلومات",
 semester:"Semester 1",
 participants:29,
 rating:4.72
 },
 
 {
-name:"Ref Theory",
-full:"Referencing & Citation (Theory)",
+name:"طرق الاستشهاد",
+full:"طرق الاستشهاد والتوثيق 1",
 semester:"Semester 1",
 participants:20,
 rating:4.75
 },
 
 {
-name:"Ref Practical",
-full:"Referencing & Citation (Practical)",
+name:"طرق الاستشهاد",
+full:"طرق الاستشهاد والتوثيق 2",
 semester:"Semester 1",
 participants:24,
 rating:4.67
 },
 
 {
-name:"Paper Reading",
-full:"How to Read a Scientific Paper",
+name:"ورقة علمية",
+full:"كيف تقرأ ورقة علمية",
 semester:"Semester 1",
 participants:35,
 rating:4.80
 },
 
 {
-name:"Writing",
-full:"Scientific Writing",
+name:"كتابة بحث",
+full:"كيف تكتب بحثًا علميًا",
 semester:"Semester 1",
 participants:54,
 rating:4.74
 },
 
 {
-name:"Abstract",
-full:"Writing an Abstract",
+name:"كتابة مستخلص",
+full:"كيف تكتب مستخلصًا",
 semester:"Semester 1",
 participants:30,
 rating:4.69
@@ -58,7 +58,7 @@ rating:4.69
 
 {
 name:"Excel 1",
-full:"Excel Basics (Day 1)",
+full:" 1 أساسيات برنامج أكسل",
 semester:"Semester 1",
 participants:10,
 rating:4.81
@@ -66,15 +66,15 @@ rating:4.81
 
 {
 name:"Excel 2",
-full:"Excel Basics (Day 2)",
+full:"أساسيات برنامج أكسل 2",
 semester:"Semester 1",
 participants:11,
 rating:4.78
 },
 
 {
-name:"Presentation",
-full:"Scientific Presentations",
+name:"عروض تقديمية",
+full:"أساسيات تقديم العروض التقديمية",
 semester:"Semester 1",
 participants:29,
 rating:4.76
@@ -82,7 +82,7 @@ rating:4.76
 
 {
 name:"AI",
-full:"AI in Scientific Research",
+full:"استخدام الذكاء الاصطناعي في البحث العلمي",
 semester:"Semester 1",
 participants:20,
 rating:4.84
@@ -93,40 +93,40 @@ Semester 2
 ====================== */
 
 {
-name:"Research",
-full:"Research Databases",
+name:"أوعية المعلومات",
+full:"البحث في أوعية المعلومات",
 semester:"Semester 2",
 participants:48,
 rating:4.72
 },
 
 {
-name:"Ref Theory",
-full:"Referencing & Citation (Theory)",
+name:"طرق الاستشهاد",
+full:"طرق الاستشهاد والتوثيق 1",
 semester:"Semester 2",
 participants:51,
 rating:4.75
 },
 
 {
-name:"Ref Practical",
-full:"Referencing & Citation (Practical)",
+name:"طرق الاستشهاد",
+full:"طرق الاستشهاد والتوثيق 2",
 semester:"Semester 2",
 participants:31,
 rating:4.67
 },
 
 {
-name:"Paper Reading",
-full:"How to Read a Scientific Paper",
+name:" ورقة علمية",
+full:"كيف تقرأ ورقة علمية",
 semester:"Semester 2",
 participants:49,
 rating:4.80
 },
 
 {
-name:"Writing",
-full:"Scientific Writing",
+name:"كتابة بحث",
+full:"كيف تكتب بحثًا علميًا",
 semester:"Semester 2",
 participants:31,
 rating:4.74
@@ -134,7 +134,7 @@ rating:4.74
 
 {
 name:"Excel 1",
-full:"Excel Basics (Day 1)",
+full:"أساسيات برنامج أكسل 1",
 semester:"Semester 2",
 participants:49,
 rating:4.81
@@ -142,23 +142,23 @@ rating:4.81
 
 {
 name:"Excel 2",
-full:"Excel Basics (Day 2)",
+full:"أساسيات برنامج أكسل 2",
 semester:"Semester 2",
 participants:40,
 rating:4.78
 },
 
 {
-name:"Presentation",
-full:"Scientific Presentations",
+name:"عروض تقديمية",
+full:"أساسيات تقديم العروض التقديمية",
 semester:"Semester 2",
 participants:32,
 rating:4.76
 },
 
 {
-name:"Project Presentation",
-full:"Project Presentation Skills",
+name:"مهارات عرض المشاريع",
+full:" مهارات عرض المشاريع",
 semester:"Semester 2",
 participants:80,
 rating:4.82
@@ -166,7 +166,7 @@ rating:4.82
 
 {
 name:"ArcGIS Pro",
-full:"Extracting & Analyzing Spatial Maps and Satellite Images using ArcGIS Pro",
+full:"ArcGIS Pro استخراج وتحليل الخرائط المكانية وصور الاقمار الصناعية بإستخدام",
 semester:"Semester 2",
 participants:64,
 rating:4.47
@@ -174,7 +174,7 @@ rating:4.47
 
 {
 name:"AI",
-full:"AI in Scientific Research",
+full:"استخدام الذكاء الاصطناعي في البحث العلمي",
 semester:"Semester 2",
 participants:68,
 rating:4.84
