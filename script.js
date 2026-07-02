@@ -157,6 +157,22 @@ rating:4.76
 },
 
 {
+name:"Project Presentation",
+full:"Project Presentation Skills",
+semester:"Semester 2",
+participants:80,
+rating:4.82
+},
+
+{
+name:"ArcGIS Pro",
+full:"Extracting & Analyzing Spatial Maps and Satellite Images using ArcGIS Pro",
+semester:"Semester 2",
+participants:64,
+rating:4.47
+},
+
+{
 name:"AI",
 full:"AI in Scientific Research",
 semester:"Semester 2",
@@ -172,9 +188,9 @@ const OFFICIAL={
 
 semester1:262,
 
-semester2:396,
+semester2:540,
 
-all:658
+all:802
 
 };
 // =========================================
@@ -691,18 +707,3 @@ console.log(
 "font-size:18px;color:#2563eb;font-weight:bold;"
 
 );
-window.addEventListener("scroll",()=>{
-
-const nav=document.querySelector("nav");
-
-if(window.scrollY>200){
-
-nav.classList.add("scrolled");
-
-}else{
-
-nav.classList.remove("scrolled");
-
-}
-
-});
