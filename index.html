@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>
+Geological Club Dashboard
+</title>
+
+<link rel="preconnect"
+href="https://fonts.googleapis.com">
+
+<link rel="preconnect"
+href="https://fonts.gstatic.com"
+crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+rel="stylesheet">
+
+<link rel="stylesheet"
+href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+
+</head>
+
+<body>
+
+<!-- Background -->
+
+<div class="background">
+
+<div class="blob blob1"></div>
+
+<div class="blob blob2"></div>
+
+<div class="blob blob3"></div>
+
+</div>
+
+<!-- ========================= -->
+
+<nav>
+
+<div class="logo">
+
+<h2>
+
+🪨 Geological Club
+
+</h2>
+
+<p>
+
+Workshop Analytics Dashboard
+
+</p>
+
+</div>
+
+<div class="navButtons">
+
+<button id="allBtn">
+
+All
+
+</button>
+
+<button id="s1Btn">
+
+Semester 1
+
+</button>
+
+<button id="s2Btn">
+
+Semester 2
+
+</button>
+
+</div>
+
+</nav>
+
+<!-- ========================= -->
+
+<section class="hero">
+
+<div class="badge">
+
+Academic Year 2025–2026
+
+</div>
+
+<h1>
+
+Workshop Analytics Dashboard
+
+</h1>
+
+<p>
+
+Interactive dashboard showing workshop participation,
+attendance and satisfaction across the Geological Club.
+
+</p>
+
+</section>
+<!-- ========================= -->
+<!-- Statistics -->
+<!-- ========================= -->
+
+<section class="cards">
+
+<div class="glass">
+
+<h3>📚 Workshops</h3>
+
+<h1 id="totalWorkshops">0</h1>
+
+<p>Total workshops delivered</p>
+
+</div>
+
+<div class="glass">
+
+<h3>👥 Participants</h3>
+
+<h1 id="totalParticipants">0</h1>
+
+<p>Total participants this year</p>
+
+</div>
+
+<div class="glass">
+
+<h3>⭐ Average Rating</h3>
+
+<h1 id="overallAverage">0.00</h1>
+
+<p>Overall satisfaction score</p>
+
+</div>
+
+<div class="glass">
+
+<h3>🏆 Best Workshop</h3>
+
+<h2 id="bestWorkshop">Loading...</h2>
+
+<p>Highest rated workshop</p>
+
+</div>
+
+</section>
+
+<!-- ========================= -->
+<!-- Chart -->
+<!-- ========================= -->
+
+<section class="glass chartSection">
+
+<div class="sectionTitle">
+
+<h2>📊 Workshop Satisfaction</h2>
+
+<p>
+
+Average participant satisfaction for each workshop
+
+</p>
+
+</div>
+
+<div id="chart"></div>
+
+</section>
+<!-- ========================= -->
+<!-- Table -->
+<!-- ========================= -->
+
+<section class="glass tableSection">
+
+<div class="sectionTitle">
+
+<h2>📋 Workshop Summary</h2>
+
+<p>
+
+Complete overview of all workshops, participation and satisfaction.
+
+</p>
+
+</div>
+
+<table>
+
+<thead>
+
+<tr>
+
+<th>Workshop</th>
+
+<th>Semester</th>
+
+<th>Participants</th>
+
+<th>Rating</th>
+
+</tr>
+
+</thead>
+
+<tbody id="tableBody">
+
+</tbody>
+
+</table>
+
+</section>
+
+<!-- ========================= -->
+<!-- Footer -->
+<!-- ========================= -->
+
+<footer>
+
+<div>
+
+🪨 <strong>Geological Club Dashboard</strong>
+
+</div>
+
+<div style="margin-top:8px;">
+
+Workshop Analytics • Academic Year 2025–2026
+
+</div>
+
+<div style="margin-top:8px;opacity:.7;">
+
+Developed by Mohammed Khubrani for the Geological Club
+
+</div>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
